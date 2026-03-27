@@ -1,16 +1,19 @@
-## Hi there 👋
+Hey there 👋
+I'm Bekzod, a student from Uzbekistan 🇺🇿
 
-<!--
-**devturdialiyev/devturdialiyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m focused on computer science, cybersecurity, and a bit of forex trading 📊
+Right now I’m learning, building small projects, and preparing for international university applications 🎓
 
-Here are some ideas to get you started:
+This is a place where I’ll share my progress, experiments, and things I’m working on 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools & Tech 🛠️
+• Python (learning)
+• Excel & Google Sheets
+• VS Code, GitHub
+• PowerPoint, Canva
+
+A Bit About Me ✨
+I’m into tech and finance
+Interested in cybersecurity & IT 🔐
+Working on becoming better every day
+I like simple, practical things that actually work
